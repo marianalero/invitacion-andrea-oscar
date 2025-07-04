@@ -417,7 +417,7 @@
 	
 
 		for (var i = 0; i <= number; i++) {
-			$('#selNumInv').append('<option value="'+i+'">'+i+'</option>');
+			$('#selNumInv').append('<option style="color:black" value="'+i+'">'+i+'</option>');
 		}
 
 	
